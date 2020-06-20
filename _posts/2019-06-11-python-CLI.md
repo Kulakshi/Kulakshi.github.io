@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿---
+---
 layout: post
 title:  "Creating a Python Application Accessible via Command Line"
 date:   2019-06-11 
