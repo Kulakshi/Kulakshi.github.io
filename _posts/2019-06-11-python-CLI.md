@@ -7,7 +7,7 @@ comments: false
 ---
 
 
-# Creating a Python Application Accessible via Command Line
+# Creating a Python Application Accessible via Command Line 1
 
 Once we wrote a Python Script there are many ways to execute it. The most obvious way is to execute the file containing the python script or the file containing \_\_main__  method (myfile.py) with python command as follows.
 
